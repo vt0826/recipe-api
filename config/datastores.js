@@ -36,6 +36,7 @@ module.exports.datastores = {
     port: 27017,
     database: "recipes",
   }, */
+  //mangolab
   default: {
     adapter: "sails-mongo",
     url:
