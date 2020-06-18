@@ -12,5 +12,5 @@ module.exports = {
     description: { type: "string" },
     steps: { type: "json", columnType: "array" },
   },
-  datastore: "mangodb",
+  /*   datastore: default, */
 };
