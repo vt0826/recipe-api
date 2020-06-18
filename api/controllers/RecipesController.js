@@ -24,7 +24,6 @@ module.exports = {
     });
   },
   delete: function (req, res) {
-    console.log("deleted");
     const id = req.params.id;
     Recipes.destroy(id).exec(function (err) {
       if (err) {
