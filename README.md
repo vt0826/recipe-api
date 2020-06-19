@@ -1,5 +1,4 @@
-<<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
   Recipe Server
 </h1>
