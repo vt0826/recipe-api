@@ -12,5 +12,5 @@ module.exports.routes = {
   "/": { view: "pages/homepage" },
 
   "post /recipes": "RecipsController.create",
-  /*  "get /recipes": "RecipesController.list", */
+  "get /recipes": "RecipesController.list",
 };
