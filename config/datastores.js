@@ -39,12 +39,12 @@ module.exports.datastores = {
   //mangolab
   default: {
     adapter: "sails-mongo",
-    /*   url:
-      "mongodb://vt0826:heroku_vt0826@ds143132.mlab.com:43132/heroku_j43stxv3", */
+    url:
+      "mongodb://vt0826:heroku_vt0826@ds143132.mlab.com:43132/heroku_j43stxv3",
 
-    host: "localhost",
+    /*  host: "localhost",
     port: 27017,
-    database: "recipes",
+    database: "recipes", */
 
     /***************************************************************************
      *                                                                          *
